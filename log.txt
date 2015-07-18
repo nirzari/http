@@ -1,0 +1,6 @@
+200 OK
+posix.stat_result(st_mode=33204, st_ino=7735423, st_dev=2050L, st_nlink=1, st_uid=1000, st_gid=1000, st_size=10, st_atime=1415304723, st_mtime=1415304723, st_ctime=1415304723)
+200 OK
+posix.stat_result(st_mode=33204, st_ino=7735425, st_dev=2050L, st_nlink=1, st_uid=1000, st_gid=1000, st_size=13, st_atime=1415305975, st_mtime=1415305975, st_ctime=1415305975)
+GET - 200 OK
+posix.stat_result(st_mode=33204, st_ino=7735425, st_dev=2050L, st_nlink=1, st_uid=1000, st_gid=1000, st_size=13, st_atime=1415305976, st_mtime=1415305975, st_ctime=1415305975)
